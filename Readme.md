@@ -11,7 +11,7 @@ Cadastro de Usuário: Usuários podem se cadastrar com um login único, email e 
 Cadastro de Plantas: Cada usuário pode cadastrar suas próprias plantas e relacioná-las com seu perfil.
 Anotações e Lembretes: Usuários podem inserir anotações sobre suas plantas e definir horários para notificações de lembretes.
 Notificações em Tempo Real: Uma thread paralela é usada para verificar, a cada minuto, se o horário atual coincide com algum lembrete agendado. Se houver uma correspondência, uma notificação é exibida usando messagebox do Tkinter.
-=======
+
 projeto01-UFRPE---Aplicativo-Bot-nico-
 Projeto desenvolvido para a diciplina de projeto interdisciplinar para Sistema de Informação na Universidade Federal Rural de Pernambuco - UFRPE. no curso de bacharelado de Sistema da Informação.
 
