@@ -17,10 +17,12 @@ Projeto desenvolvido para a diciplina de projeto interdisciplinar para Sistema d
 
 Um aplicativo Botânico desenvolvido durante os horarios da disciplina e fora dela, utilizando a linguaguem python com a IDE pycharm com o sistema de interface com a biblioteca Tkinter e para armazenar os dados foi usado a outra biblioteca Sqlite3.
 
-Requisitos
+Requisitos:
 
-python 3.12.1,
-sqlite3, 
+python 3.12.1
+
+sqlite3 
+
 tkinter 
 
 acesse: https://docs.python.org/pt-br/3/tutorial/ (para obter mais informacoes sobre os requisitos utilizados e como baixa-los, em python e tkinter)
