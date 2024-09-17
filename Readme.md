@@ -7,6 +7,7 @@ Descrição do Projeto
 O Sistema de Gerenciamento de Plantas com Notificações Automáticas é uma aplicação desktop desenvolvida em Python com o objetivo de ajudar usuários a gerenciar seus cuidados com plantas. O sistema permite que o usuário cadastre plantas, adicione anotações de cuidados específicos e agende notificações para lembrá-lo dos cuidados necessários. A aplicação utiliza Tkinter para a interface gráfica, SQLite como banco de dados local e threading para permitir notificações em tempo real sem interferir na interação do usuário.
 
 Funcionalidades Principais:
+
 Cadastro de Usuário: Usuários podem se cadastrar com um login único, email e senha.
 Cadastro de Plantas: Cada usuário pode cadastrar suas próprias plantas e relacioná-las com seu perfil.
 Anotações e Lembretes: Usuários podem inserir anotações sobre suas plantas e definir horários para notificações de lembretes.
