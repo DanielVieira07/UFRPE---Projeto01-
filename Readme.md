@@ -19,8 +19,8 @@ Um aplicativo Botânico desenvolvido durante os horarios da disciplina e fora de
 
 Requisitos
 
-python 3.12.1
-sqlite3 
+python 3.12.1,
+sqlite3, 
 tkinter 
 
 acesse: https://docs.python.org/pt-br/3/tutorial/ (para obter mais informacoes sobre os requisitos utilizados e como baixa-los, em python e tkinter)
